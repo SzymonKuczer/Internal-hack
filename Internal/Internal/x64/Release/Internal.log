@@ -1,0 +1,54 @@
+﻿  dllmain.cpp
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(363,123): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(367,161): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(367,170): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(370,160): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(370,166): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(375,122): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(379,160): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(379,169): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(382,158): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(382,164): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(386,126): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(390,163): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(390,172): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(393,164): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(393,170): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(397,118): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(401,156): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(401,165): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(404,150): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(404,156): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(408,121): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(412,159): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(412,168): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(415,156): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(415,162): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(419,121): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(423,159): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(423,168): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(426,156): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(426,162): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(431,131): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(435,169): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(435,178): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(438,175): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(438,181): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(446,158): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(446,167): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(454,181): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(454,190): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(459,179): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(459,188): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(464,202): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(464,211): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(471,196): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(471,205): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(331,6): warning C4101: 'selectedWeapon': unreferenced local variable
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(334,6): warning C4101: 'originalAmmoValues': unreferenced local variable
+  Generating code
+  2 of 132 functions ( 1.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Internal.vcxproj -> C:\Users\szymo\source\repos\Internal\x64\Release\Internal.dll

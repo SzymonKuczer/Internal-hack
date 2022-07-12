@@ -1,0 +1,93 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(84,40): error C2039: 'to_wstring': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(24): message : see declaration of 'std'
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(84,50): error C3861: 'to_wstring': identifier not found
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(84,69): error C2660: 'SetWindowTextW': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : see declaration of 'SetWindowTextW'
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(87,39): error C2039: 'to_wstring': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(24): message : see declaration of 'std'
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(87,49): error C3861: 'to_wstring': identifier not found
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(87,68): error C2660: 'SetWindowTextW': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : see declaration of 'SetWindowTextW'
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(90,42): error C2039: 'to_wstring': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(24): message : see declaration of 'std'
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(90,52): error C3861: 'to_wstring': identifier not found
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(90,71): error C2660: 'SetWindowTextW': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : see declaration of 'SetWindowTextW'
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(93,35): error C2039: 'to_wstring': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(24): message : see declaration of 'std'
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(93,45): error C3861: 'to_wstring': identifier not found
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(93,64): error C2660: 'SetWindowTextW': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : see declaration of 'SetWindowTextW'
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(96,38): error C2039: 'to_wstring': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(24): message : see declaration of 'std'
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(96,48): error C3861: 'to_wstring': identifier not found
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(96,67): error C2660: 'SetWindowTextW': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : see declaration of 'SetWindowTextW'
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(99,38): error C2039: 'to_wstring': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(24): message : see declaration of 'std'
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(99,48): error C3861: 'to_wstring': identifier not found
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(99,67): error C2660: 'SetWindowTextW': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : see declaration of 'SetWindowTextW'
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(102,47): error C2039: 'to_wstring': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(24): message : see declaration of 'std'
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(102,57): error C3861: 'to_wstring': identifier not found
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(102,76): error C2660: 'SetWindowTextW': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : see declaration of 'SetWindowTextW'
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(197,22): error C3861: '_ttoi': identifier not found
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(207,22): error C3861: '_ttoi': identifier not found
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(217,22): error C3861: '_ttoi': identifier not found
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(227,22): error C3861: '_ttoi': identifier not found
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(237,22): error C3861: '_ttoi': identifier not found
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(247,22): error C3861: '_ttoi': identifier not found
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(257,22): error C3861: '_ttoi': identifier not found
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(311,8): error C2086: 'BYTE *playerAddress': redefinition
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(292): message : see declaration of 'playerAddress'
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(366,128): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(370,161): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(370,175): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(373,160): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(373,166): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(378,127): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(382,160): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(382,174): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(385,158): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(385,164): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(389,131): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(393,163): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(393,177): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(396,164): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(396,170): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(400,123): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(404,156): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(404,170): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(407,150): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(407,156): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(411,126): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(415,159): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(415,173): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(418,156): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(418,162): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(422,126): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(426,159): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(426,173): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(429,156): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(429,162): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(434,136): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(438,169): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(438,183): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(441,175): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(441,181): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(449,158): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(449,172): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(457,181): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(457,195): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(462,179): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(462,193): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(467,202): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(467,216): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(474,196): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\szymo\source\repos\Internal\Internal\dllmain.cpp(474,210): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  internal.cpp
+  Generating Code...
